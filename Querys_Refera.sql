@@ -78,7 +78,7 @@ ORDER BY
     P.ProdutoID;
 
 /* Consulta 6: Venda por cliente, cidade do cliente e estado
-    Como não há o estado do cliente na tabelas, coloquei o 
+    Como não há o estado do cliente nas tabelas, coloquei o 
     país no lugar */
 SELECT 
     C.Cliente, 
